@@ -220,6 +220,16 @@ POST   /employees/upload
 - Docker support
 
 ---
+## ⏱ Time Taken
+
+Total Time Taken: 14 hours
+
+Breakdown:
+- Project Setup & Architecture: 1 hours
+- CRUD APIs with Validation: 3 hours
+- Pagination & Search: 0.2 hours
+- Excel Bulk Upload with Transactions: 0.5 hours
+- Documentation & README: 0.2 hours
 
 # 👨‍💻 Author
 
