@@ -211,7 +211,7 @@ POST   /employees/upload
 
 ---
 
-# 🧠 Future Improvements
+# Improvements
 
 - Global error handling middleware
 - Reusable Swagger schemas
